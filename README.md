@@ -1,5 +1,4 @@
 ## Hello world! Seja bem-vindo, meu nome é Vitor!
-### Clique em qualquer dos campos abaixo para visitar meu currículo...
 
 <div>
   <a href="https://v17or.github.io/Curriculum/">
